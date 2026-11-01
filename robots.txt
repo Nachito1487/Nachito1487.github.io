@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://manual-del-cuerpo.nacho14-87.chatgpt.site/sitemap.xml

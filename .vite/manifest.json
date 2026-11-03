@@ -1,0 +1,321 @@
+{
+  "_arrow-left-DCtFOeW3.js": {
+    "file": "_next/static/chunks/arrow-left-DCtFOeW3.js",
+    "name": "arrow-left",
+    "imports": [
+      "_play-DFzAmRHS.js"
+    ]
+  },
+  "_arrow-right-DaBKffwL.js": {
+    "file": "_next/static/chunks/arrow-right-DaBKffwL.js",
+    "name": "arrow-right",
+    "imports": [
+      "_play-DFzAmRHS.js"
+    ]
+  },
+  "_demonstration-slot-BZBCIaZ1.js": {
+    "file": "_next/static/chunks/demonstration-slot-BZBCIaZ1.js",
+    "name": "demonstration-slot",
+    "imports": [
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_expert-note-CB6F1YB_.js": {
+    "file": "_next/static/chunks/expert-note-CB6F1YB_.js",
+    "name": "expert-note",
+    "imports": [
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_framework-D_rUT4EX.js": {
+    "file": "_next/static/chunks/framework-D_rUT4EX.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_play-DFzAmRHS.js": {
+    "file": "_next/static/chunks/play-DFzAmRHS.js",
+    "name": "play",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "_rotate-ccw-B3SAtUeJ.js": {
+    "file": "_next/static/chunks/rotate-ccw-B3SAtUeJ.js",
+    "name": "rotate-ccw",
+    "imports": [
+      "_play-DFzAmRHS.js"
+    ]
+  },
+  "app/arm-lesson.tsx": {
+    "file": "_next/static/chunks/arm-lesson-C_GrDJnH.js",
+    "name": "arm-lesson",
+    "src": "app/arm-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/armpit-lesson.tsx": {
+    "file": "_next/static/chunks/armpit-lesson-C_qdSXsB.js",
+    "name": "armpit-lesson",
+    "src": "app/armpit-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/body-explorer-3d.tsx": {
+    "file": "_next/static/chunks/body-explorer-3d-ClxN7iT9.js",
+    "name": "body-explorer-3d",
+    "src": "app/body-explorer-3d.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-D_rUT4EX.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/@google+model-viewer@4.3.1_three@0.183.2/node_modules/@google/model-viewer/lib/model-viewer.js"
+    ],
+    "css": [
+      "_next/static/css/body-explorer-3d.lJlsWhtM.css"
+    ]
+  },
+  "app/dental-lesson.tsx": {
+    "file": "_next/static/chunks/dental-lesson-B74Y_9QE.js",
+    "name": "dental-lesson",
+    "src": "app/dental-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_play-DFzAmRHS.js",
+      "_arrow-left-DCtFOeW3.js",
+      "_arrow-right-DaBKffwL.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/drying-lesson.tsx": {
+    "file": "_next/static/chunks/drying-lesson-BAP6z2E3.js",
+    "name": "drying-lesson",
+    "src": "app/drying-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/ear-lesson.tsx": {
+    "file": "_next/static/chunks/ear-lesson-BcIoX4nV.js",
+    "name": "ear-lesson",
+    "src": "app/ear-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_expert-note-CB6F1YB_.js",
+      "_play-DFzAmRHS.js",
+      "_arrow-left-DCtFOeW3.js",
+      "_arrow-right-DaBKffwL.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/face-lesson.tsx": {
+    "file": "_next/static/chunks/face-lesson-UusmQfzF.js",
+    "name": "face-lesson",
+    "src": "app/face-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/foot-lesson.tsx": {
+    "file": "_next/static/chunks/foot-lesson-DsTDbyfF.js",
+    "name": "foot-lesson",
+    "src": "app/foot-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_demonstration-slot-BZBCIaZ1.js",
+      "_expert-note-CB6F1YB_.js",
+      "_play-DFzAmRHS.js",
+      "_arrow-left-DCtFOeW3.js",
+      "_arrow-right-DaBKffwL.js",
+      "_framework-D_rUT4EX.js"
+    ],
+    "css": [
+      "_next/static/css/foot-lesson.CkD3w3xi.css"
+    ]
+  },
+  "app/glute-lesson.tsx": {
+    "file": "_next/static/chunks/glute-lesson-J3_0T9Av.js",
+    "name": "glute-lesson",
+    "src": "app/glute-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/hand-lesson.tsx": {
+    "file": "_next/static/chunks/hand-lesson-NmbDqNYU.js",
+    "name": "hand-lesson",
+    "src": "app/hand-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_play-DFzAmRHS.js",
+      "_arrow-left-DCtFOeW3.js",
+      "_arrow-right-DaBKffwL.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/intimate-lesson.tsx": {
+    "file": "_next/static/chunks/intimate-lesson-D1rm_J0J.js",
+    "name": "intimate-lesson",
+    "src": "app/intimate-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/leg-lesson.tsx": {
+    "file": "_next/static/chunks/leg-lesson-lkFyDTM8.js",
+    "name": "leg-lesson",
+    "src": "app/leg-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/nail-lesson.tsx": {
+    "file": "_next/static/chunks/nail-lesson-BiIkc90X.js",
+    "name": "nail-lesson",
+    "src": "app/nail-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_play-DFzAmRHS.js",
+      "_rotate-ccw-B3SAtUeJ.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/page.tsx": {
+    "file": "_next/static/chunks/page-CvKOTvp3.js",
+    "name": "page",
+    "src": "app/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_demonstration-slot-BZBCIaZ1.js",
+      "_play-DFzAmRHS.js",
+      "_arrow-right-DaBKffwL.js",
+      "_rotate-ccw-B3SAtUeJ.js",
+      "_framework-D_rUT4EX.js"
+    ],
+    "dynamicImports": [
+      "app/body-explorer-3d.tsx",
+      "app/glute-lesson.tsx",
+      "app/face-lesson.tsx",
+      "app/arm-lesson.tsx",
+      "app/leg-lesson.tsx",
+      "app/hand-lesson.tsx",
+      "app/dental-lesson.tsx",
+      "app/ear-lesson.tsx",
+      "app/foot-lesson.tsx",
+      "app/nail-lesson.tsx",
+      "app/shaving-lesson.tsx",
+      "app/drying-lesson.tsx",
+      "app/intimate-lesson.tsx",
+      "app/armpit-lesson.tsx",
+      "app/torso-lesson.tsx"
+    ]
+  },
+  "app/shaving-lesson.tsx": {
+    "file": "_next/static/chunks/shaving-lesson-sG8kPqIZ.js",
+    "name": "shaving-lesson",
+    "src": "app/shaving-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/torso-lesson.tsx": {
+    "file": "_next/static/chunks/torso-lesson-ByeiORXr.js",
+    "name": "torso-lesson",
+    "src": "app/torso-lesson.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/.pnpm/@google+model-viewer@4.3.1_three@0.183.2/node_modules/@google/model-viewer/lib/model-viewer.js": {
+    "file": "_next/static/chunks/model-viewer-CbIVrRwC.js",
+    "name": "model-viewer",
+    "src": "node_modules/.pnpm/@google+model-viewer@4.3.1_three@0.183.2/node_modules/@google/model-viewer/lib/model-viewer.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "_next/static/chunks/app-route-prefetch-policy-Cq469Vl2.js",
+    "name": "app-route-prefetch-policy",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-DwUUjDBu.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "_next/static/chunks/streamed-icons-uwe02LWL.js",
+    "name": "streamed-icons",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-CP4w1EKq.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/streamed-icons.js",
+      "virtual:vinext-app-browser-entry",
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_83db80f580ed9bdd6c2d1523b512e93c/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/page.tsx"
+    ]
+  }
+}
